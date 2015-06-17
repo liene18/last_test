@@ -1,0 +1,55 @@
+body,
+html{
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding:0;
+	border: 0;
+}
+
+		/* Head */
+
+.header{
+	height: 94px;
+	
+	background-color: #522900;
+}
+
+.logo-img {
+margin-left: 100px;
+margin-top: 60px;
+background-color: transparent;
+}
+
+.menu {
+list-style-type: none;
+margin-right: 210px;
+margin-left: 725px;
+}
+
+ul .menu{
+	color: #FFFFFF;
+}
+
+.menu li{
+	display: inline-block;
+
+}
+
+.lang{
+	list-style-type: none;
+}
+
+.lang li{
+	display: inline-block;
+}
+
+		/* Slider */
+		
+.slider{
+	height: 595px;
+}
+
+.slide{
+	list-style-type: none;
+}		
